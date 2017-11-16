@@ -1,0 +1,109 @@
+.jumbotron {
+  margin-top: 80px;
+  background-image: url("../img/sunset-glacier_1920.jpg");
+  background-size: cover;
+  color: #fff;
+  height: 500px;
+}
+
+.northern {
+  margin-top: 80px;
+  background-image: url("../img/aurora_1920.jpg");
+  background-size: cover;
+  height: 500px;
+  /*height: 600px; - use height to get the full size of the image - probably have to use media queries to get the look I want or change image to one that has a better coloring*/
+}
+
+.copenhagen {
+  margin-top: 80px;
+  background-image: url("../img/copenhagen/copenhagen_1920x700.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #000;
+}
+
+.oslo {
+  margin-top: 80px;
+  background-image: url("../img/oslo/karl_johan_gate_oslo-google.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #000;
+}
+
+/*change background stockholm picture to have blue sky*/
+
+.stockholm {
+  margin-top: 80px;
+  background-image: url("../img/stockholm/stckhlm-riddarholmen-by-olaf-senestam-flickr-crp.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #fff;
+}
+
+
+/*gamla-stan-old-town_1920*/
+
+/*    Use this font for headers, jumbotron, navbar font-family: 'Merriweather', serif;*/
+
+/*Use this font for webpage p text font-family: 'Lora', serif;*/
+
+.navbar-thing {
+  justify-content: space-between;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.container-fluid {
+  margin-top: 80px;
+}
+
+.header, h5 {
+  color:#002b80;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 500px;
+}
+
+.carousel-caption copen h3 {
+  color: #000;
+}
+
+.carousel-caption copen p {
+  color: #fff;
+}
+.combo {
+  margin-top: 80px;
+  background-image: url("../img/combo/aurora-glacier_1860x1000px.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #000;
+}
+
+
+.reservations {
+  margin-top: 80px;
+  background-image: url("../img/reservations/hurtigruten_1920x700px.jpg");
+  background-size: cover;
+  height: 500px;
+  color: #000;
+}
+
+.glacier {
+  background-image: url("../img/reservations/white-glacier_1920.jpg");
+  background-size: cover;
+
+}
+
+/*.table .thead-dark th {*/
+
+/*  background-color: navy;*/
+
+/*  color: white;*/
+
+/*}*/
+
+/*NOTE: COLOR ABOVE DID NOT CHANGE FROM BLACK TO BLUE*/
