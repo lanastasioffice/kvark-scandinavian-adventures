@@ -4,6 +4,7 @@
   background-size: cover;
   color: #fff;
   height: 500px;
+  /*font-family: 'Roboto', sans-serif;*/
 }
 
 .northern {
@@ -55,6 +56,10 @@
   flex-grow: 0;
 }
 
+.nav-item {
+  font-weight: bold;
+}
+
 .container-fluid {
   margin-top: 80px;
 }
@@ -68,13 +73,13 @@
   height: 500px;
 }
 
-.carousel-caption copen h3 {
-  color: #000;
-}
+/*.carousel-caption copen h3 {*/
+/*  color: #000;*/
+/*}*/
 
-.carousel-caption copen p {
-  color: #fff;
-}
+/*.carousel-caption copen p {*/
+/*  color: #fff;*/
+/*}*/
 .combo {
   margin-top: 80px;
   background-image: url("../img/combo/aurora-glacier_1860x1000px.jpg");
@@ -97,6 +102,27 @@
   background-size: cover;
 
 }
+.glacier, p {
+  /*font-family: 'Merriweather Sans', sans-serif;*/
+  font-weight: bold
+}
+
+h5 {
+  text-decoration: underline;
+}
+
+.carousel-caption  .boat{
+  color: black;
+}
+  
+  td h6 {
+    font-weight: bold
+  }
+/*}*/
+/*boat h3 {*/
+/*  color: black;*/
+/*}*/
+
 
 /*.table .thead-dark th {*/
 
@@ -107,3 +133,4 @@
 /*}*/
 
 /*NOTE: COLOR ABOVE DID NOT CHANGE FROM BLACK TO BLUE*/
+  
